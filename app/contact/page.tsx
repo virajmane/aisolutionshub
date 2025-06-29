@@ -51,8 +51,8 @@ export default function Contact() {
     {
       icon: <Mail className="h-6 w-6" />,
       title: "Email",
-      content: "contact@aisolutionshub.com",
-      link: "mailto:contact@aisolutionshub.com"
+      content: "virajmane5439@gmail.com",
+      link: "mailto:virajmane5439@gmail.com"
     },
     {
       icon: <Calendar className="h-6 w-6" />,

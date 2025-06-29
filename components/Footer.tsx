@@ -23,7 +23,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="mailto:contact@aisolutionshub.com"
+                href="mailto:virajmane5439@gmail.com"
                 className="text-muted-foreground hover:text-primary transition-colors"
                 aria-label="Email"
               >
@@ -82,8 +82,8 @@ const Footer = () => {
             <h3 className="font-semibold mb-4">Get In Touch</h3>
             <ul className="space-y-2 text-muted-foreground">
               <li>
-                <a href="mailto:contact@aisolutionshub.com" className="hover:text-primary transition-colors">
-                  contact@aisolutionshub.com
+                <a href="mailto:virajmane5439@gmail.com" className="hover:text-primary transition-colors">
+                  virajmane5439@gmail.com
                 </a>
               </li>
               <li>Ready to transform your business?</li>
