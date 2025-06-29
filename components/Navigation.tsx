@@ -44,7 +44,7 @@ const Navigation = () => {
               <Brain className="h-6 w-6 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              AI Solutions Hub
+              AI Solutions Pro
             </span>
           </Link>
 

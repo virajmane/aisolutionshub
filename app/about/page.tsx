@@ -7,7 +7,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'About Viraj Mane - AI Solutions Expert',
-  description: 'Meet Viraj Mane, founder of AI Solutions Hub. 2.5+ years at Accenture, specialized in automation, Gen AI, and intelligent business solutions.',
+  description: 'Meet Viraj Mane, founder of AI Solutions Pro. 2.5+ years at Accenture, specialized in automation, Gen AI, and intelligent business solutions.',
 };
 
 export default function About() {
@@ -20,7 +20,7 @@ export default function About() {
     {
       icon: <Bot className="h-6 w-6" />,
       title: "Gen AI Specialist",
-      description: "Created GPT-2 powered chatbots and intelligent assistants"
+      description: "Created GPT powered chatbots and intelligent assistants"
     },
     {
       icon: <Zap className="h-6 w-6" />,
@@ -37,7 +37,7 @@ export default function About() {
   const skills = [
     "Python Development",
     ".NET Framework",
-    "GPT-2 & Gen AI",
+    "LLM & Gen AI",
     "Backend Architecture",
     "Test Automation",
     "Prompt Engineering",
@@ -98,7 +98,7 @@ export default function About() {
             </p>
             
             <p className="text-lg leading-relaxed mb-8">
-              That's why I founded AI Solutions Hub. I saw an opportunity to help businesses of all sizes 
+              That's why I founded AI Solutions Pro. I saw an opportunity to help businesses of all sizes 
               harness the power of Generative AI and automation, not just the Fortune 500 companies. 
               My focus is on creating practical, results-driven solutions that deliver measurable ROI 
               from day one.
@@ -146,7 +146,7 @@ export default function About() {
                   {skill}
                 </span>
               ))}
-            </div>n
+            </div>
           </div>
         </div>
       </section>

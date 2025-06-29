@@ -14,7 +14,7 @@ const Footer = () => {
                 <Brain className="h-6 w-6 text-white" />
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                AI Solutions Hub
+                AI Solutions Pro
               </span>
             </Link>
             <p className="text-muted-foreground mb-4 max-w-md">
@@ -92,7 +92,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t pt-8 mt-8 text-center text-muted-foreground">
-          <p>&copy; 2024 AI Solutions Hub. All rights reserved.</p>
+          <p>&copy; 2024 AI Solutions Pro. All rights reserved.</p>
         </div>
       </div>
     </footer>

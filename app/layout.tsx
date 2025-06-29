@@ -10,32 +10,32 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    default: 'AI Solutions Hub - Build Smarter, Work Faster',
-    template: '%s | AI Solutions Hub'
+    default: 'AI Solutions Pro - Build Smarter, Work Faster',
+    template: '%s | AI Solutions Pro'
   },
   description: 'We develop intelligent IT solutions powered by Generative AI to automate your operations, reduce costs, and scale effortlessly.',
   keywords: ['AI solutions', 'automation', 'generative AI', 'business tools', 'IT consulting', 'workflow automation'],
   authors: [{ name: 'Viraj Mane' }],
-  creator: 'AI Solutions Hub',
+  creator: 'AI Solutions Pro',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://aisolutionshub.com',
-    title: 'AI Solutions Hub - Build Smarter, Work Faster',
+    title: 'AI Solutions Pro - Build Smarter, Work Faster',
     description: 'We develop intelligent IT solutions powered by Generative AI to automate your operations, reduce costs, and scale effortlessly.',
-    siteName: 'AI Solutions Hub',
+    siteName: 'AI Solutions Pro',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'AI Solutions Hub - Generative AI for Business',
+        alt: 'AI Solutions Pro - Generative AI for Business',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AI Solutions Hub - Build Smarter, Work Faster',
+    title: 'AI Solutions Pro - Build Smarter, Work Faster',
     description: 'We develop intelligent IT solutions powered by Generative AI to automate your operations, reduce costs, and scale effortlessly.',
     images: ['/og-image.jpg'],
   },
@@ -72,7 +72,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "AI Solutions Hub",
+              "name": "AI Solutions Pro",
               "description": "We develop intelligent IT solutions powered by Generative AI to automate your operations, reduce costs, and scale effortlessly.",
               "url": "https://aisolutionshub.com",
               "founder": {
